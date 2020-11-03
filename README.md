@@ -1,5 +1,11 @@
 # bookmark-manager
+--------------------------------------------------
+Setting up the database:
 
+Connect to psql
+Create the database using the psql command CREATE DATABASE bookmark_manager;
+Connect to the database using the psql command \c bookmark_manager;
+Run the query saved in the file 01_create_bookmarks_table.sql
 --------------------------------------------------
 User story 1
 
@@ -10,5 +16,5 @@ I want to see a list of bookmarks
 User story 2
 
 As a user,
-So that I can save a website
+So that I can save a website,
 I want to add the address and name of a website to my bookmark manager
