@@ -30,4 +30,5 @@ User story 2
 
 As a user,
 So that I can save a website,
-I want to add the address and name of a website to my bookmark manager
+I want to add a URL and name to my Bookmarks
+--------------------------------------------------
